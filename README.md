@@ -3,7 +3,9 @@
 
 - 🏫 I’m currently studying Computer Science at **University of Franche-Comté**
 
-- 🌱 I’m currently learning **Java**
+- 💻 I’m currently learning **Java, HTML/CSS, Python, SQL, Bash**
+
+- 💡 I want to learn **JavaScript, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
