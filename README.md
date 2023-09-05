@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mathysn?tab=repositories](https://github.com/mathysn?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/mathysn](https://github.com/mathysn?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
