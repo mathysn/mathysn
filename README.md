@@ -8,5 +8,3 @@
 - 🌱 I’m currently learning **Full-stack development**
 
 - 👨‍💻 All of my projects are available on [my GitHub](https://github.com/mathysn?tab=repositories)
-
-<a align="center" href="https://app.daily.dev/mathysnourry"><img src="https://api.daily.dev/devcards/v2/mQcVZn8TTLHCCWYxts9h8.png?r=ggh&type=default" width="356" alt="Mathys's Dev Card"/></a>
